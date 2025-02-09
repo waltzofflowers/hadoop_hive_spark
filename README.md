@@ -1,7 +1,7 @@
 # Hadoop, Hive, and Spark Project
 
 ## Project Overview
-This project demonstrates the usage of Hadoop, Hive, and Spark components. It includes a setup of Hadoop components like NameNode, DataNode, ResourceManager, NodeManager, and History Server. Additionally, it incorporates Hive components like Hive Server, Hive Metastore, Hive Metastore PostgreSQL, and Spark components like Spark Master and Spark Worker.
+This project demonstrates the usage of Hadoop, Hive, and Spark components. It includes a setup of Hadoop components like NameNode, DataNode, ResourceManager, NodeManager, and History-Server. Additionally, it incorporates Hive components like Hive-Server, Hive-Metastore, Hive-Metastore-PostgreSQL, and Spark components like Spark-Master and Spark-Worker.
 
 ## Components Used
 

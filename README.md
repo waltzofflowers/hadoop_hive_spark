@@ -52,11 +52,12 @@ Follow the steps below to get started with the project:
 
 ## Contributing
 
-    If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
 ## Acknowledgments
 
-    Special thanks to the contributors and maintainers of the Hadoop, Hive, and Spark communities.
+Special thanks to the contributors and maintainers of the Hadoop, Hive, and Spark communities.
 
 ## Contact
-    For any questions or contributions, please contact cihat.burak.uluturk@gmail.com .
+
+For any questions or contributions, please contact cihat.burak.uluturk@gmail.com .

@@ -57,18 +57,6 @@ This project walks you through using Spark with Hadoop for data processing. It i
     /spark/bin/spark-submit --master spark://spark-master:7077 pyspark_1.py
     ```
 
-    Since it's an isolated workplace, you can't copy the data from the Docker workplace to your local PC. Unless you install SSH or something to your PC and make your PC a bit more like a workstation, which could cause vulnerabilities. Instead, execute the following commands to receive its data. This means asking Docker to handle it:
-
-    Under Namenode, it copies /tmp/output_csv. Care about overwriting and naming:
-    ```bash
-    docker exec namenode hdfs dfs -get /user/hadoop/output1_csv /tmp/output_csv
-    ```
-
-    We are saying we want the output from HDFS to our own project folder:
-    ```bash
-    docker cp namenode:/tmp/output_csv C:\\path\\to\\your\\local\\project\\folder\\output_csv
-    ```
-
 ### 3. Retrieving Data from HDFS
 - Since it's an isolated workplace, you can't copy the data from the Docker workplace to your local PC. Unless you install SSH or something to your PC and make your PC a bit more like a workstation, which could cause vulnerabilities. Instead, execute the following commands to receive its data. This means asking Docker to handle it:
 

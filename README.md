@@ -44,7 +44,7 @@ Follow the steps below to get started with the project:
 3. **Build and Start the Containers**
 
     ```bash
-   docker-compose up --build
+   docker-compose up -d --build
     ```
 4. **Verify the Setup**
 

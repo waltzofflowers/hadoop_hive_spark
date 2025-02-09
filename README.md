@@ -23,13 +23,13 @@ This project demonstrates the usage of Hadoop, Hive, and Spark components. It in
 
 ## Usage
 ### Hive Usage
-    For detailed information on how to use Hive components in this project, please refer to the [`for-hive.md`](for-hive.md) file.
+For detailed information on how to use Hive components in this project, please refer to the [`for-hive.md`](for-hive.md) file.
 
 ### Spark Usage
-    For detailed information on how to use Spark components in this project, please refer to the [`for-spark.md`](for-spark.md) file.
+For detailed information on how to use Spark components in this project, please refer to the [`for-spark.md`](for-spark.md) file.
 
 ## Getting Started
-    Follow the steps below to get started with the project:
+Follow the steps below to get started with the project:
 
 1. **Clone the Repository**
    ```bash
